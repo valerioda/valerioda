@@ -1,7 +1,7 @@
 
 ![Header](/header.png)
 
-<!-- <a target="_blank" href="mailto:cecilia.ferrari@gssi.it">
+<!-- <a target="_blank" href="mailto:valerio.dandrea@lngs.infn.it">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
 
